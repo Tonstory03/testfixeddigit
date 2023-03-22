@@ -1,0 +1,21 @@
+tmp/
+
+*.exe
+/vendor/**
+
+# Binaries, plugins, libs
+*.dll
+*.dylib
+*.exe
+*.exe~
+*.so
+
+# Testing
+*.test
+*.tmp
+
+.vscode
+
+application.local.yml
+
+.idea
